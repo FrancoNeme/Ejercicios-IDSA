@@ -1,0 +1,10 @@
+Id;Reembolso;Estado Civil;Ingresos Anuales;Fraude
+1;si;soltero;125;no
+2;no;casado;100;no
+3;no;soltero;70;no
+4;si;casado;120;no
+5;no;divorciado;95;si
+6;no;casado;60;no
+7;no;soltero;80;no
+8;si;casado;100;no
+9;no;soltero;70;no

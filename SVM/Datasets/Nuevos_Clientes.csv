@@ -1,0 +1,4 @@
+IdCliente,     EstadoCivil, Profesion,  Universitario,  TieneVehiculo,  Compra
+111,Soltero,Empresario,No,Si,?
+222,Casado,Desempleado,Si,No,?
+333,Soltero,Empleado,No,No,?

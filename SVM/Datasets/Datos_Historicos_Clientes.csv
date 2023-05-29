@@ -1,0 +1,15 @@
+IdCliente,     EstadoCivil, Profesion,  Universitario,  TieneVehiculo,  Compra
+1,Casado,Empresario,Si,No,No
+2,Casado,Empresario,Si,Si,No
+3,Soltero,Empresario,Si,No,Si
+4,Viudo,Desempleado,Si,No,Si
+5,Viudo,Empleado,No,No,Si
+6,Viudo,Empleado,No,Si,No
+7,Soltero,Empleado,No,Si,Si
+8,Casado,Desempleado,Si,No,No
+9,Casado,Empleado,No,No,Si
+10,Viudo,Desempleado,No,No,Si
+11,Casado,Desempleado,No,Si,Si
+12,Soltero,Desempleado,Si,Si,No
+13,Soltero,Empresario,No,No,Si
+14,Viudo,Desempleado,Si,Si,No

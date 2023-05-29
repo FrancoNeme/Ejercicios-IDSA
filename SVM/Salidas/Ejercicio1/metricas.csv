@@ -1,0 +1,11 @@
+modelo,accuracy,precision,recall,matriz_confusion
+lineal,1.0,1.0,1.0,"[[2 0]
+ [0 1]]"
+lineal2,0.6666666666666666,1.0,0.5,"[[1 1]
+ [0 1]]"
+radial,1.0,1.0,1.0,"[[2 0]
+ [0 1]]"
+polinomial,1.0,1.0,1.0,"[[2 0]
+ [0 1]]"
+modelo_opt_linear,1.0,1.0,1.0,"[[2 0]
+ [0 1]]"
